@@ -1,6 +1,5 @@
 ## Introduction
-This project uses a dataset of Coca-cola historical daily stock price and SQL Server to ask for important and useful questions for stock analysis purpose. The project is also 
-a demonstration of ability to write advanced and powerful SQL queries to not only bring out the important details of a dataset, but to also transform it into a different format.
+This project uses a dataset of Coca-cola historical daily stock price (1962-2021) and SQL Server to query for important and useful information for stock analysis purpose. The project is also a demonstration of ability to write advanced and powerful SQL queries to not only bring out the important details of a dataset, but to also transform it into a different format.
 
 ## Skill summary 
 * Writing basic *SELECT* statements
