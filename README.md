@@ -2,5 +2,5 @@
 
 
 
-## Statement of Originality 
+## Statement of originality 
 
